@@ -1,0 +1,23 @@
+html{
+    background: no-repeat;
+    background-size: 100%;
+}
+
+body{
+    background-color: lightblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+button{
+    border: 2px dotted;
+    background-color: lightcoral;
+}
+
+select, input{
+    background-color: lightgreen;
+    border: 2px lightseagreen solid;
+}
